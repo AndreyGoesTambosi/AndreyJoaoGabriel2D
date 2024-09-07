@@ -40,10 +40,25 @@ header {
   text-align: center;
 }
 
-.imagem {
-	width: 90%;
-	height: 90%;
-	display: inline;
+.conteudos {
+	padding: 20px;
+}
+
+#p {
+	padding: 17px;
+	text-align: center;
+}
+
+footer {
+  overflow: hidden;
+  padding: 20px 10px;
+  background-color: rgb(166,166,166);
+  text-align: center;
+}
+
+#link {
+	border-width: thick;
 	border-style: solid;
-	border-color: rgb(181,181,181);
+	border-color: rgb(217,217,217);
+	background-color: rgb(217,217,217);
 }
