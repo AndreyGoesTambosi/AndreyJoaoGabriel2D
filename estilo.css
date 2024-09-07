@@ -1,6 +1,5 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: white;
   background-color: rgb(217,217,217);
 }
 
@@ -29,17 +28,22 @@ header {
   color: black;
 }
 
-#titulo {
-	float: left;
-	width: 91%;
-	height: 100%;
-	background-color: rgb(181,181,181);
-	border-width: thick;
-	border-style: solid;
-	border-color: rgb(217,217,217);
-	color: rgb(217,217,217);
+.titulo {
+  float: left;
+  width: 91%;
+  height: 100%;
+  background-color: rgb(181,181,181);
+  border-width: thick;
+  border-style: solid;
+  border-color: rgb(217,217,217);
+  color: rgb(217,217,217);
+  text-align: center;
 }
 
-img {
-	width: 500px;
+.imagem {
+	width: 90%;
+	height: 90%;
+	display: inline;
+	border-style: solid;
+	border-color: rgb(181,181,181);
 }
