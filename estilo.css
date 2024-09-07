@@ -1,12 +1,11 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(181,181,181);
 }
 
 header {
   overflow: hidden;
-  background-color: rgb(217,217,217);
   padding: 20px 10px;
+  background-color: rgb(217,217,217);
   text-align: center;
 }
 
