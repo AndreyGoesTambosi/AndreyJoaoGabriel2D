@@ -1,1 +1,14 @@
+body {
+	background-color: rgb(217, 217, 217);
+	font-family: Arial;
+}
 
+h2, footer {
+	background-color: rgb(166, 166, 166);
+}
+
+#logo, #site {
+	background-color: rgb(84, 84, 84);
+	text-align: center;
+	color: Grey;
+}
