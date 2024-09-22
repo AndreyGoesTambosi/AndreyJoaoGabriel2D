@@ -5,7 +5,6 @@ body {
 
 header {
   overflow: hidden;
-  padding: 20px 10px;
   background-color: rgb(217,217,217);
   text-align: center;
 }
@@ -41,17 +40,14 @@ header {
 }
 
 .conteudos {
-	padding: 20px;
 }
 
 #p {
-	padding: 17px;
 	text-align: center;
 }
 
 footer {
   overflow: hidden;
-  padding: 20px 10px;
   background-color: rgb(166,166,166);
   text-align: center;
 }
